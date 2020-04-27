@@ -9,7 +9,7 @@ top of base version, checkout the demo [here](https://vipulmahadik.github.io/tal
 - [Features](#Features)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Customizations](3Customizations)
+- [Customizations](#Customizations)
 - [Contributing](#Contributing)
 
 ## Features
