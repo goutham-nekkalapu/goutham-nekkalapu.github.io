@@ -1,0 +1,48 @@
+# Site settings
+title: "ML Engineer"
+site_title: "Goutham Nekkalapu"
+#description: "A personal website and blog and much more" 
+description: ""
+url: "https://gouthamnekkalapu.xyz"
+#url: "https://goutham-nekkalapu.github.io"
+
+# Google Analytics
+google_analytics: UA-105808035-1
+
+# Author
+author:
+  name: Goutham Nekkalapu
+  url: https://gouthamnekkalapu.xyz
+  email: goutham.nekkalapu@gmail.com
+
+# Build settings
+markdown: kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Excludes
+exclude: [Gemfile, Gemfile.lock, tale.gemspec]
+
+# Disqus (Set to your disqus id)
+#disqus: #jekyll-tale
+disqus: goutham-nekkalapu-github-io
+
+#- shortname: goutham-nekkalapu-github-io
+#- comments: true 
+
+theme: tale
+
+permalink: /:year-:month-:day/:title
+paginate: 5
