@@ -42,7 +42,7 @@ disqus: goutham-nekkalapu-github-io
 #- shortname: goutham-nekkalapu-github-io
 #- comments: true 
 
-theme: tale
+theme_name: tale
 
 permalink: /:year-:month-:day/:title
 paginate: 5
