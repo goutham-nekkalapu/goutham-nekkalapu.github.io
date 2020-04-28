@@ -131,7 +131,8 @@ Next, add `comments: true` to the YAML front matter of the posts which you would
 ## Customizations
 
 - For adding "GA" tracking refer to this [link](https://desiredpersona.com/google-analytics-jekyll/)
-- For adding "Disquss" support refer to this [link](https://desiredpersona.com/disqus-comments-jekyll/)
+- For adding "Disquss" support refer to this [link](https://desiredpersona.com/disqus-comments-jekyll/) 
+- If you are using GoDaddy for linking it to custom domain use this [link](<http://andrewsturges.com/blog/jekyll/tutorial/2014/11/06/github-and-godaddy.html>)
 - For enabling SSL for the blog using github's url or custom domain refer to [this](https://blog.webjeda.com/jekyll-ssl/)
 - For adding new tabs to exsting ones like (Home, Blog, etc), follow below steps 
   - add the new tab name's URL in '_includes/navigation.html'; can refer to how others tabs are like 'Home', 'Blog' etc were added
