@@ -2,7 +2,7 @@
 layout: post
 title: "Resources"
 author: "Goutham Nekkalapu"
-permalink: /Resources/
+permalink: /resources/
 ---
 Collection of links that I stumbled upon which are useful to me. <br/> <br/>
 
