@@ -1,4 +1,7 @@
 
+- add background image, dark mode to website 
+- create a custom logo and it on home page from here : <http://hatchful.shopify.com>
+
 - add the support to write math equations:
   - <http://flennerhag.com/2017-01-14-latex/>
   - <https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown>
